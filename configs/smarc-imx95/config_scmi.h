@@ -183,6 +183,7 @@
         .perlpiPerms[DEV_SM_PERLPI_CAN3] = SM_SCMI_PERM_ALL, \
         .perlpiPerms[DEV_SM_PERLPI_CAN4] = SM_SCMI_PERM_ALL, \
         .perlpiPerms[DEV_SM_PERLPI_CAN5] = SM_SCMI_PERM_ALL, \
+        .perlpiPerms[DEV_SM_PERLPI_GPIO1] = SM_SCMI_PERM_ALL, \
         .perlpiPerms[DEV_SM_PERLPI_GPIO2] = SM_SCMI_PERM_ALL, \
         .perlpiPerms[DEV_SM_PERLPI_GPIO3] = SM_SCMI_PERM_ALL, \
         .perlpiPerms[DEV_SM_PERLPI_GPIO4] = SM_SCMI_PERM_ALL, \
@@ -467,6 +468,7 @@
         .perlpiPerms[DEV_SM_PERLPI_CAN3] = SM_SCMI_PERM_ALL, \
         .perlpiPerms[DEV_SM_PERLPI_CAN4] = SM_SCMI_PERM_ALL, \
         .perlpiPerms[DEV_SM_PERLPI_CAN5] = SM_SCMI_PERM_ALL, \
+        .perlpiPerms[DEV_SM_PERLPI_GPIO1] = SM_SCMI_PERM_ALL, \
         .perlpiPerms[DEV_SM_PERLPI_GPIO2] = SM_SCMI_PERM_ALL, \
         .perlpiPerms[DEV_SM_PERLPI_GPIO3] = SM_SCMI_PERM_ALL, \
         .perlpiPerms[DEV_SM_PERLPI_GPIO4] = SM_SCMI_PERM_ALL, \
