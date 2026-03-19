@@ -31,7 +31,7 @@
 ## ###################################################################
 
 GEN_CONFIG_VER ?= 2U
-BOARD ?= mcimx95evk
+BOARD ?= smarc-imx95
 USES_FUSA ?= 1
 
 include ./devices/MIMX95/sm/Makefile
