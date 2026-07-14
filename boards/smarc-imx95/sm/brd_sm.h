@@ -37,7 +37,7 @@
 
 /*==========================================================================*/
 /*!
- * @addtogroup BRD_SM_MX95EVK
+ * @addtogroup BRD_SM_SMARC_IMX95
  * @{
  *
  * @file
@@ -62,7 +62,7 @@
 /* Defines */
 
 /*! Board name string */
-#define BRD_SM_NAME  "i.MX95 EVK"
+#define BRD_SM_NAME  "IEI SMARC i.MX95"
 
 /*! Board attributes */
 #define BRD_SM_ATTR  0x0
