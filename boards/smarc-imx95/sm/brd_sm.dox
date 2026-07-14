@@ -39,9 +39,9 @@
 
 /*!
 
-@defgroup BRD_SM_MX95EVK BOARD_MX95EVK: i.MX95 EVK SM Implementation
+@defgroup BRD_SM_SMARC_IMX95 BOARD_SMARC_IMX95: IEI SMARC i.MX95 SM Implementation
 
-@brief Module for the i.MX95 EVK for the SM.
+@brief Module for the IEI SMARC i.MX95 for the SM.
 
 Board Module
 ============
