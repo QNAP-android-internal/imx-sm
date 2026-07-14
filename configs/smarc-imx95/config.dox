@@ -39,9 +39,9 @@
 
 /*!
 
-@defgroup CONFIG_MX95EVK CONFIG_MX95EVK: i.MX95 EVK Configuration Data
+@defgroup CONFIG_SMARC_IMX95 CONFIG_SMARC_IMX95: IEI SMARC i.MX95 Configuration Data
 
-@brief Module for i.MX95 EVK Configuration Data.
+@brief Module for IEI SMARC i.MX95 Configuration Data.
 
 */
 
